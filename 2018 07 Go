@@ -1,0 +1,21 @@
+# July 2018 Go
+
+For July the subject is the Go language. It’s completely up to you how much you dig into it. The following are suggestions for where to start;
+
+1. Follow the tour here https://tour.golang.org/welcome/1. I would recommend installing Go locally first and setting up an IDE (e.g. Visual Studio Code) for it, although Notepad and the Command Line are sufficient so don’t waste too much time on that. Visual Studio Code has a great plug in for Go with syntax completion and checking, although I haven’t managed to get debugging working properly yet. However, you can just follow the tutorial in the browser too.
+2. I recommend investigating / learning about the following aspects / modules of the language if you have time;
+  * Build (go build)
+  * Multiple return parameters
+  * Error handling
+  * Unit testing (go test -v -cover)
+  * Interfaces
+  * Flags (for CLI)
+  * Go routines
+  * Compilation to native machine language
+  * Dependency management
+3. If you want to dig deeper, then;
+  * io
+  * http
+4. If you want to build a demo app, then here are two ideas;
+  * A command line app that copies files from one folder to a folder structure based on the file name. The file name is a date (e.g. 2018-06-14 11.47.21.jpg). The target folder structure is ‘.\Photos\2018 06 June’ or ‘.\Videos\2018 06 June’ dependent on the file extension. You may recognise this as the ‘Camera Uploads’ folder for DropBox.
+  * A simple self-hosted rest api that returns json from a GET request.
