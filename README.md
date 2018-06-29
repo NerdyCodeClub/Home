@@ -12,8 +12,9 @@ The Read me for the organization
 7.	Jared [July]
 8.	Malek [August]
 9.	Maxim
-10.	Thomas
-11.	Tom
+10. Paul
+11.	Thomas
+12.	Tom
 
 
 ## Repo naming convention
