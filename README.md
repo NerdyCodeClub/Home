@@ -19,4 +19,5 @@ The Read me for the organization
 ## Repo naming convention
 
 2018_07_Go_Jared
-[Year]_[Month]_[Topic]_[User]
+
+Year_Month_Topic_User
