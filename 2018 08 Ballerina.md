@@ -24,7 +24,7 @@ Features:
   * Protection against injection attacks
   * Docker & Kubernetes
 
-Things to looks into: there is a lot of examples for every feature the language supports, some of what I find cool things to explore are:
+Things to look into: there is a lot of examples for every feature the language supports, some of what I find cool things to explore are:
 
 * Message broker
 * Cirtcuit breaker
