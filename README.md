@@ -8,14 +8,15 @@ The Read me for the organization
 3.	Daria
 4.	David
 5.	George
-6.	Ivan
-7.	Jared [July]
-8.  Jonathan E
-9.	Malek
-10.	Maxim
-11. Paul
-12.	Thomas
-13.	Tom
+7.  Hossein
+8.	Ivan
+9.	Jared [July]
+10. Jonathan E
+11.	Malek
+12.	Maxim
+13. Paul
+14.	Thomas
+15.	Tom
 
 
 ## Repo naming convention
