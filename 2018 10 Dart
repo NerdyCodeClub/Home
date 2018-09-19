@@ -1,0 +1,32 @@
+# October 2018 Dart
+
+For the Halloween edition of Code Club, I thought we could take a look at Dart. It's not something I have ever looked at before, but I have read a couple of positive things about it in the past and would like to give it a try.
+
+Dart was built by Google and it a general-purpose application programming language. The community appears to be quite strong and there are some good sites that offer tutorials and guides on the language.
+
+A couple of good starting points are:
+*	https://www.dartlang.org/
+*	https://www.dartlang.org/tutorials
+*	https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0
+
+There are instructions on how to install Dart locally and the CLI tools for building etc. However, if you don’t want to do that, you can use the DartPad in the browser - https://dartpad.dartlang.org
+
+This is really good if you just want to get stuck in right away without bothering with installations and running commands in the terminal.
+If you like command line sort of stuff, you can start here -> https://www.dartlang.org/tools/sdk#install
+
+
+Things that you might want to dive into include:
+*	Variables
+*	Built-in types
+*	Functions
+*	Operators
+*	Control Flow Statements
+*	Exceptions
+*	Generics
+*	Async 
+*	Package Manager (pub)
+
+If you have even more time, you might want to check out the different platforms used with Dart:
+*	Mobile (Flutter)
+*	Web (AngularDart)
+*	Server (command line and server-side apps)	
